@@ -1,0 +1,20 @@
+# environments
+**/exoplanet_env/
+**/*_env/
+
+# data files
+**/*.h5
+**/*.hdf5
+W39_PRISM_data/
+
+# system
+.DS_Store
+desktop
+desktop.pub
+
+# python
+**/__pycache__/
+**/.ipynb_checkpoints/
+
+# outputs
+**/*.pns
