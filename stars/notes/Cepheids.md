@@ -18,8 +18,7 @@ Phase fold = collapse all cycles onto one using the known period.
 **stacked on top of each other.**
 
 ## A clean Sawtooth
-
-![[Pasted image 20260416153656.png]]
+(see plots)
 
 
 ---
@@ -50,7 +49,8 @@ No distance scatter. Apparent brightness = true brightness (relative).
 
 ## Leavitt's Law: plot from data
 
-![[Pasted image 20260416153737.png]]
+(see plots)
+
 ### Why it matters
 `Measure period → know true brightness → compare to apparent brightness→ get distance.`  Works across the universe.
 

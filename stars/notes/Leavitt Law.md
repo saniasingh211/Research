@@ -54,7 +54,7 @@ You can think of it as: the intercept tells you how far away the LMC is. If the 
 
 **The whole equation:**
 
-$$M = -2.917 \times \log(P) + 16.844$$
+$M = -2.917 \times \log(P) + 16.844$
 
 Plug in any period. Get the expected brightness. That's the ruler.
 
