@@ -1,0 +1,2 @@
+ I am imagining the rubber sheet goes so deep with a small point mass that there is no other path around it, it all sinks in..but until where? eventually there has to be a tear somewhere! when does the rubber sheet tear! how much mass can spacetime take?
+ 

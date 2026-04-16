@@ -1,9 +1,0 @@
-W39_PRISM_data/
-exoplanet_env/
-*.png
-__pycache__/
-.ipynb_checkpoints/
-.DS_Store
-desktop
-desktop.pub
-*.h5
