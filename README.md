@@ -25,7 +25,7 @@ Period finding, transit depth analysis.
 
 MSc Applied Mathematics, Imperial College London (2025) — 
 numerical methods, PDEs, finite element methods.
-BSc Physics First Class, Miranda House Delhi (2023).
+BSc Hons Physics, Miranda House Delhi (2023).
 
 ## Tools
 Python, NumPy, SciPy, Matplotlib, Astropy, GWpy, h5py
