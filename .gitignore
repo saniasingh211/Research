@@ -17,3 +17,4 @@ desktop.pub
 **/__pycache__/
 **/.ipynb_checkpoints/
 
+**/*.fits
