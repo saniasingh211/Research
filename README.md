@@ -32,8 +32,10 @@ BSc Hons Physics, Miranda House Delhi (2023).
 Python, NumPy, SciPy, Matplotlib, Astropy, GWpy, h5py
 
 ### Note:
+
 All files in my "notes" folders in each project, that describe the work I am doing
 are created using Obsidian. Some formatting doesn't render to git, like highlighting, etc. 
 Eventually, I'll upload my vault, when I am done with this project. 
+
 ---
 *Active and ongoing. Updated regularly.*
