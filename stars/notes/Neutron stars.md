@@ -14,7 +14,7 @@ Elements 27-118 (iron to uranium): need a different process.
 ### Neutron capture — the solution
 Neutrons have no charge. No electrical repulsion. They slip into nuclei freely.
 Nucleus absorbs neutron → gets heavier → sometimes unstable → beta decays:
-$ n → p + e⁻ + ν̄ₑ $
+$$ n → p + e⁻ + ν̄ₑ $$
  
 
 Neutron becomes proton. → Element number increases by one.
