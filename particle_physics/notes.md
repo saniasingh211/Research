@@ -7,11 +7,12 @@
 
 ---
 
-## What This Is
+## Idea
 
 A simulation of a supernova neutrino burst detector — built from scratch, cell by cell.
 
 The pipeline mirrors what Super-Kamiokande actually runs:
+
 1. Model the background (quiet detector, no star dying)
 2. Model the burst signal (star collapses, neutron star cools)
 3. Combine them — this is what the detector records
@@ -38,22 +39,26 @@ Fast rise at $t_0$, exponential decay with timescale $\tau = 3$ seconds. This is
 ## The Pipeline
 
 ### Time axis
+
 - Bin width: 10ms
 - Pre-burst window: 2 seconds (quiet, background only)
 - Post-burst window: 15 seconds (burst + background)
 - Total: 1700 bins
 
 ### Background model
+
 - Rate: 0.5 events/second → 0.005 expected counts per bin
 - Sampled from Poisson distribution
 - Result: ~9 events across the full window. Sparse. No structure.
 
 ### Signal model
+
 - Peak rate: 200 events/second at $t=0$
 - Decays exponentially with $\tau = 3$s
 - Result: ~607 events. 400x louder than background at peak.
 
 ### Detection filter
+
 - Sliding window: 0.5 seconds (50 bins)
 - Compute mean count rate in window
 - Compare to expected background rate → detection ratio
@@ -64,19 +69,19 @@ Fast rise at $t_0$, exponential decay with timescale $\tau = 3$ seconds. This is
 
 ## Results
 
-| Quantity | Value |
-|---|---|
-| Background events (total) | 9 |
-| Signal events (total) | 607 |
-| Peak counts in single bin | 6 |
-| Peak detection ratio | 424x |
-| Detection threshold | 10x |
+| Quantity                  | Value |
+| ------------------------- | ----- |
+| Background events (total) | 9     |
+| Signal events (total)     | 607   |
+| Peak counts in single bin | 6     |
+| Peak detection ratio      | 424x  |
+| Detection threshold       | 10x   |
 
 The burst is unambiguous. In real detectors the challenge is a weaker signal — either a more distant supernova, or a smaller detector.
 
 ---
 
-## What's Simplified
+## Things I simplified
 
 - Real burst profiles are more complex (two-component: neutronisation burst + accretion + cooling)
 - Real backgrounds are not flat — they have time-varying structure
@@ -102,4 +107,4 @@ The burst is unambiguous. In real detectors the challenge is a weaker signal —
 
 ---
 
-*First particle physics project. Built it from scratch. It works.*
+_First particle physics project._
