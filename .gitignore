@@ -18,3 +18,4 @@ desktop.pub
 **/.ipynb_checkpoints/
 
 **/*.fits
+**/*_env/
