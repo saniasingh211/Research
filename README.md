@@ -6,8 +6,8 @@ astrophysics, but a lot of passion! Just curiosity, Python, and the public archi
 
 ## Background
 
-MSc Applied Mathematics, Imperial College London (2025).
-BSc Hons Physics, Miranda House Delhi (2023).
+- MSc Applied Mathematics, Imperial College London (2025).
+- BSc Hons Physics, Miranda House Delhi (2023).
 
 ## What's here
 
