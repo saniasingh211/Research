@@ -1,41 +1,49 @@
 # Research
 
-Independent computational astrophysics projects built while 
-preparing for a PhD in observational astrophysics or 
-astronomical data science.
-
-## What's here
-
-**Exoplanet atmospheres** — transmission spectroscopy of WASP-39b 
-using real JWST NIRSpec PRISM data. Forward modelling, chi-squared 
-retrieval, Bayesian inference applied to atmospheric composition.
-
-**Variable stars** — Cepheid light curves from OGLE-IV. 
-Phase folding, period analysis, Leavitt Law reproduction from 
-2439 LMC Cepheids. Distance measurement to Andromeda.
-
-**Gravitational waves** — LIGO strain data analysis. 
-GW150914 and GW170817 signal processing, whitening, 
-spectrogram analysis.
-
-**Light curves** — Kepler exoplanet transit data. 
-Period finding, transit depth analysis.
+Independent computational astrophysics — exploring real data
+from real telescopes and observatories. No formal training in
+astrophysics, but a lot of passion! Just curiosity, Python, and the public archives.
 
 ## Background
 
-MSc Applied Mathematics, Imperial College London (2025) — 
-numerical methods, PDEs, finite element methods.
-
+MSc Applied Mathematics, Imperial College London (2025) —
+numerical methods, PDEs, finite element methods.  
 BSc Hons Physics, Miranda House Delhi (2023).
 
+## What's here
+
+**Gaia** — Metal-poor halo star analysis using real Gaia DR3 data.
+Metallicity distributions, HR diagrams, proper motion of ancient
+halo stars. Queried directly from the Gaia archive.
+
+**Spectroscopy** — Stellar chemical abundances from GALAH DR3.
+R-process enrichment, Ba/Eu correlations, [Fe/H] distributions.
+Real FITS spectra across blue, green, red and IR cameras.
+
+**Stars** — Cepheid light curves from OGLE-IV. Phase folding,
+period analysis, Leavitt Law reproduction from 2439 LMC Cepheids.
+Distance measurement to Andromeda. Pulsar timing and neutron star mergers.
+
+**Exoplanet atmospheres** — Transmission spectroscopy of WASP-39b
+using real JWST NIRSpec PRISM data. Forward modelling, chi-squared
+retrieval, atmospheric composition.
+
+**LIGO** — Gravitational wave strain data analysis. GW150914 and
+GW170817 signal processing, whitening, spectrogram analysis.
+
+**Kepler** — Exoplanet transit light curves. Period finding,
+transit depth analysis.
+
+**Hubble** — Hubble constant estimation and dark energy equation
+of state from expansion data.
+
+**Particles** — Supernova neutrino burst detection modelling.
+
 ## Tools
-Python, NumPy, SciPy, Matplotlib, Astropy, GWpy, h5py
 
-### Note:
-
-All files in my "notes" folders in each project, that describe the work I am doing
-are created using Obsidian. Some formatting doesn't render to git, like highlighting, etc. 
-Eventually, I'll upload my vault, when I am done with this project. 
+Python, NumPy, SciPy, Matplotlib, Astropy, Astroquery, GWpy,
+Lightkurve, h5py
 
 ---
-*Active and ongoing. Updated regularly.*
+
+_Active and ongoing. Updated regularly._
