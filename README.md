@@ -12,7 +12,7 @@ BSc Hons Physics, Miranda House Delhi (2023).
 
 ## What's here
 
-**Gaia** — Metal-poor halo star analysis using real Gaia DR3 data.
+**GAIA** — Metal-poor halo star analysis using real Gaia DR3 data.
 Metallicity distributions, HR diagrams, proper motion of ancient
 halo stars. Queried directly from the Gaia archive.
 
