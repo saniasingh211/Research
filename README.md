@@ -1,7 +1,8 @@
 # Research
 
-Independent computational astrophysics 🔭 exploring real data
-from real telescopes and observatories. Just curiosity, Python, and a lot of passion! and the public archives.
+Independent computational astrophysics — exploring real data
+from real telescopes and observatories. No formal training in
+astrophysics. Just curiosity, Python and public archives.
 
 ## Background
 
